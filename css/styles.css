@@ -1,8 +1,11 @@
  .contents-showing{ 
     display: none;
 }
-.contents-showing>img{
+ul{
     float: left;
+}
+#image1{
+    float: right;
 }
 
 .clickable{
